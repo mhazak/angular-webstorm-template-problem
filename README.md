@@ -1,6 +1,16 @@
-# WebstormTemplateProblem
+# Angular Webstorm Template Problem
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+Webstorm has a problem to access property inside discriminated union even after `@if` check for common attribute.  
+
+
+
+    TESTED on configuration:
+    Webstorm Angular TS Plugin - Auto
+    ENABLED Use types From server
+
+    WebStorm 2024.3.4
+
+![readme image.png](src/readme%20image.png)![test]()
 
 ## Development server
 
