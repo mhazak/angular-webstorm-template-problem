@@ -10,7 +10,7 @@ Webstorm has a problem to access property inside discriminated union even after 
 
     WebStorm 2024.3.4
 
-![readme image.png](src/readme%20image.png)![test]()
+![readme image.png](src/readme%20image.png)
 
 ## Development server
 
